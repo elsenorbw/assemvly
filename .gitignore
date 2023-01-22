@@ -1,0 +1,7 @@
+# no object files
+*.o
+
+# binaries.. 
+cat/mycat
+rot13/myrot13
+hello_world/hello
